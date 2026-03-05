@@ -3,12 +3,4 @@ uvicorn
 pillow
 google-generativeai
 python-multipart
-fastapi
-uvicorn
-pillow
-numpy
-opencv-python
-pytesseract
-torch
-transformers
-python-multipart
+python-dotenv
